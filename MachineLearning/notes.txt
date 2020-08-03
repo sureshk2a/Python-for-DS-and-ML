@@ -1,0 +1,7 @@
+ML Process:
+
+Data Acquisition
+Data Cleaning - Test Data
+Model Training & Building
+Model Testing - Test Data
+Model Deployment

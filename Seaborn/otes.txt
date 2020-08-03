@@ -1,0 +1,5 @@
+Seaborn is a statistical plotting library
+has beautiful default styles to use
+Works well with pandas library
+
+hue - is comparing two values of axes in a graph

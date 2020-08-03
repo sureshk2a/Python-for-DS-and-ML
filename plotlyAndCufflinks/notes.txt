@@ -1,0 +1,3 @@
+Plotly is an interactive visualization library
+Cufflinks connects plotly with pandas
+Before we explote these libraries you'll need to install them
